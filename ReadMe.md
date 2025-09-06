@@ -55,6 +55,7 @@
 /index.html            # основная страница с iframe
 /form.html             # форма для создания сделки
 ```
+<img width="1322" height="857" alt="Снимок экрана 2025-09-06 в 06 40 47" src="https://github.com/user-attachments/assets/3ba484e0-b158-4c1d-8009-4d9e8c2921d9" />
 
 ## ✅ Функционал
 - [x] Отображение формы во фрейме
